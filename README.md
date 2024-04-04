@@ -4,7 +4,7 @@ Comecei a programar na adolescência quando fiz colegial técnico em Processamen
 
 Possuo conhecimentos de Java e no seu framework Spring, além de Kotlin, com foco em desenvolvimento de Rest APIs. Ainda com APIs, já trabalhei com gRPC, GraphQL (Node.js) e WebServices SOA. Para complementar, no Front-end já atuei com Angular, React, Javascript, HTML, CSS. Trabalhei também com Cloud AWS, Siebel (Erp CRM), PHP, SQL, Oracle (SQL Tunning, PL/SQL), Git e GitHub.
 
-Por aqui compartilho um pouco dos códigos simulando um pouco do que já me deparei na minha vida profissional. 
+Por aqui compartilho um pouco dos códigos simulando o que já me deparei na minha vida profissional. 
 
 Quer conhecer mais ? É só acessar meu portfólio: https://valeriacsmorais.github.io/projects.html
 
